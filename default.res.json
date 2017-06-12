@@ -3302,7 +3302,6 @@
 			"type": "image",
 			"url": "2d/collection/game/award_close_btn_down.png"
 		},
-		},
 		{
 			"name": "award_close_btn_down_png",
 			"type": "image",
@@ -3310,6 +3309,17 @@
 		},
 		{
 			"name": "pumpkinIcon_png",
+			"type": "image",
+			"url": "2d/collection/game/pumpkinIcon.png"
+		}
+		,
+		{
+			"name": "award_close_btn_down_png2",
+			"type": "image",
+			"url": "2d/collection/game/award_close_btn_down.png"
+		},
+		{
+			"name": "pumpkinIcon_png3",
 			"type": "image",
 			"url": "2d/collection/game/pumpkinIcon.png"
 		}
