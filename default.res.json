@@ -3311,6 +3311,16 @@
 			"name": "pumpkinIcon_png",
 			"type": "image",
 			"url": "2d/collection/game/pumpkinIcon.png"
+		},
+		{
+			"name": "pumpkinIcon_png1",
+			"type": "image",
+			"url": "2d/collection/game/pumpkinIcon.png"
+		},
+		{
+			"name": "pumpkinIcon_png2",
+			"type": "image",
+			"url": "2d/collection/game/pumpkinIcon.png"
 		}
 		,
 		{
