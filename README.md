@@ -1,1 +1,2 @@
 # testRes
+testEgretRes
